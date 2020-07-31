@@ -1,0 +1,25 @@
+<updates>
+	<update>
+		<name>BTC Donation Module</name>
+		<description>Joomla!LABS BTC Donation Module Version 1.0.0</description>
+		<element>mod_joomlalabs_btcdonation_module</element>
+		<type>file</type>
+		<version>1.0.0</version>
+		<infourl title="Joomla!">https://github.com/JoomlaLABS/btcdonation_module/releases/tag/v1.0.0</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.0/mod_joomlalabs_btcdonation_module_1.0.0.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.0/mod_joomlalabs_btcdonation_module_1.0.0.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<sha256>809b00720e43efe52331b0a86f880b6f7ba93fd8f0ecdad013a9d1a7cc8ccd9e</sha256>
+		<sha384>910e50d76bc4225e65e644d06dd04a9b8511cbd39f43648213f4d7af931fa65759565e6e2e79b065a4b707ede84e0c81</sha384>
+		<sha512>6fd06b75b1555b9558b2ce96eb01daab088f30b1b3b96551f3114ea20fbc67cf5f72ac7c48288bb5e56ef89daae2befba4363e256a55d6ed90314b513283b060</sha512>
+		<maintainer>Joomla!LABS</maintainer>
+		<maintainerurl>https://joomlalabs.org</maintainerurl>
+		<section>STS</section>
+		<targetplatform name="joomla" version="4.0" />
+		<php_minimum>7.2</php_minimum>
+	</update>
+</updates>
