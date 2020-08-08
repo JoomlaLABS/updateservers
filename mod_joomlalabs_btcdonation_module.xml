@@ -2,21 +2,21 @@
 <updates>
 	<update>
 		<name>BTC Donation Module</name>
-		<description>Joomla!LABS BTC Donation Module Version 1.0.0</description>
+		<description>Joomla!LABS BTC Donation Module Version 1.0.1</description>
 		<element>mod_joomlalabs_btcdonation_module</element>
 		<type>file</type>
-		<version>1.0.0</version>
-		<infourl title="Joomla!">https://github.com/JoomlaLABS/btcdonation_module/releases/tag/v1.0.0</infourl>
+		<version>1.0.1</version>
+		<infourl title="Joomla!LABS BTC Donation Module">https://github.com/JoomlaLABS/btcdonation_module/releases/tag/v1.0.1</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.0/mod_joomlalabs_btcdonation_module_1.0.0.zip</downloadurl>
-			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.0/mod_joomlalabs_btcdonation_module_1.0.0.zip</downloadsource>
+			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.1/mod_joomlalabs_btcdonation_module_1.0.1.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/btcdonation_module/releases/download/v1.0.0/mod_joomlalabs_btcdonation_module_1.0.1.zip</downloadsource>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>809b00720e43efe52331b0a86f880b6f7ba93fd8f0ecdad013a9d1a7cc8ccd9e</sha256>
-		<sha384>910e50d76bc4225e65e644d06dd04a9b8511cbd39f43648213f4d7af931fa65759565e6e2e79b065a4b707ede84e0c81</sha384>
-		<sha512>6fd06b75b1555b9558b2ce96eb01daab088f30b1b3b96551f3114ea20fbc67cf5f72ac7c48288bb5e56ef89daae2befba4363e256a55d6ed90314b513283b060</sha512>
+		<sha256>98a3b5fd75ccd14c46a9bfe34fe81043b5fe27708ff44eca2f67ff459850caa8</sha256>
+		<sha384>abce157a6fac4f2aab7fa7d87d6958364375002a1d6c3a569a6a5bb386028716a249f71972ffd6d3c47ae5985ac033f7</sha384>
+		<sha512>feb9ec5efd8d8462fb259ea413b41a8debf8c9c8c47203bbe280e0876288907ffd5d46459e8626e6bd77abb89cf4b11b75788c4875f2a1ebee7d42e066129c8d</sha512>
 		<maintainer>Joomla!LABS</maintainer>
 		<maintainerurl>https://joomlalabs.org</maintainerurl>
 		<section>STS</section>
