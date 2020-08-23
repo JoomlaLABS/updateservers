@@ -2,21 +2,21 @@
 <updates>
 	<update>
 		<name>Image Comparison Slider Module</name>
-		<description>Joomla!LABS Image Comparison Slider Module Version 1.0.0</description>
+		<description>Joomla!LABS Image Comparison Slider Module Version 1.1.0</description>
 		<element>mod_joomlalabs_imagecomparisonslider_module</element>
 		<type>file</type>
-		<version>1.0.0</version>
-		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v1.0.0</infourl>
+		<version>1.1.0</version>
+		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v1.1.0</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v1.0.0/mod_joomlalabs_imagecomparisonslider_module_1.0.0.zip</downloadurl>
-			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v1.0.0/mod_joomlalabs_imagecomparisonslider_module_1.0.0.zip</downloadsource>
+			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v1.1.0/mod_joomlalabs_imagecomparisonslider_module_1.1.0.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v1.1.0/mod_joomlalabs_imagecomparisonslider_module_1.1.0.zip</downloadsource>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>52348a8cad4cd8e4f4aa571b6963916fa01e61c4e53dff21c24172f821929eeb</sha256>
-		<sha384>ea3150baca3f1d71c653dcd15bbf3685f482628fa0c6471dd3a224e195289b2abf6417321f60a4734fcbdf385f931974</sha384>
-		<sha512>6b47ea3e74039d1511058ff2eaf6339ed3fa6261acbea2a157c2e68dabce766bf60310fc21fe2667ebab6a5656604925059011cef74c4baee2056e2b1e926511</sha512>
+		<sha256>29ca7ceef6644c021268fbdeca731f6db965448f6826083e74e9b2b8b0f6b151</sha256>
+		<sha384>d751d69cf57b5d43a6f56405d3cecf824ada7760a61ce5e6b7693a88afa8e00972ea28fe9a9747832301444ce8deb3ba</sha384>
+		<sha512>1e469d4f5bd2a591a091a3c28aaf88426bcf0a911ea7acd5e9208e6c6fed61b0a405b5ccb230eb9b5093ae1daab27629208587542ad44a9f118e5650368bee92</sha512>
 		<maintainer>Joomla!LABS</maintainer>
 		<maintainerurl>https://joomlalabs.org</maintainerurl>
 		<section>STS</section>
