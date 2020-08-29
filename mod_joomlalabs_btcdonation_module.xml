@@ -4,7 +4,7 @@
 		<name>BTC Donation Module</name>
 		<description>Joomla!LABS BTC Donation Module Version 1.0.1</description>
 		<element>mod_joomlalabs_btcdonation_module</element>
-		<type>file</type>
+		<type>module</type>
 		<version>1.0.1</version>
 		<infourl title="Joomla!LABS BTC Donation Module">https://github.com/JoomlaLABS/btcdonation_module/releases/tag/v1.0.1</infourl>
 		<downloads>
