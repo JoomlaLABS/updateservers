@@ -4,7 +4,7 @@
 		<name>Image Comparison Slider Module</name>
 		<description>Joomla!LABS Image Comparison Slider Module Version 1.1.0</description>
 		<element>mod_joomlalabs_imagecomparisonslider_module</element>
-		<type>file</type>
+		<type>module</type>
 		<version>1.1.0</version>
 		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v1.1.0</infourl>
 		<downloads>
