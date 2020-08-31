@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <updates>
 	<update>
-		<name>Image Comparison Slider Module</name>
-		<description>Joomla!LABS Image Comparison Slider Module Version 1.0.0</description>
+		<name>Swiper Slider Module</name>
+		<description>Joomla!LABS Swiper Slider Module Version 1.0.0</description>
 		<element>mod_joomlalabs_swiperslider_module</element>
 		<type>module</type>
 		<version>1.1.0</version>
 		<client>site</client>
-		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v1.0.0</infourl>
+		<infourl title="Joomla!LABS Swiper Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v1.0.0</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.0.0/mod_joomlalabs_swiperslider_module_1.0.0.zip</downloadurl>
 			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.0.0/mod_joomlalabs_swiperslider_module_1.0.0.zip</downloadsource>
