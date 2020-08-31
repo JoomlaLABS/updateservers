@@ -5,7 +5,7 @@
 		<description>Joomla!LABS Swiper Slider Module Version 1.0.0</description>
 		<element>mod_joomlalabs_swiperslider_module</element>
 		<type>module</type>
-		<version>1.1.0</version>
+		<version>1.0.0</version>
 		<client>site</client>
 		<infourl title="Joomla!LABS Swiper Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v1.0.0</infourl>
 		<downloads>
