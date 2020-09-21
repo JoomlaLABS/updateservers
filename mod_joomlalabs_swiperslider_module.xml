@@ -2,22 +2,22 @@
 <updates>
 	<update>
 		<name>Swiper Slider Module</name>
-		<description>Joomla!LABS Swiper Slider Module Version 1.0.0</description>
+		<description>Joomla!LABS Swiper Slider Module Version 1.1.0</description>
 		<element>mod_joomlalabs_swiperslider_module</element>
 		<type>module</type>
-		<version>1.0.0</version>
+		<version>1.1.0</version>
 		<client>site</client>
-		<infourl title="Joomla!LABS Swiper Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v1.0.0</infourl>
+		<infourl title="Joomla!LABS Swiper Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v1.1.0</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.0.0/mod_joomlalabs_swiperslider_module_1.0.0.zip</downloadurl>
-			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.0.0/mod_joomlalabs_swiperslider_module_1.0.0.zip</downloadsource>
+			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.1.0/mod_joomlalabs_swiperslider_module_1.1.0.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v1.1.0/mod_joomlalabs_swiperslider_module_1.1.0.zip</downloadsource>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<sha256>a1f364112d4f19f08a3a60be3d8c5bdd119c5404b04add87edca4129fd3584a2</sha256>
-		<sha384>3c7f4a90ae6aab3a8a6585186e33ae4874a8950f33f7a029203011ac78b691655b21fef9436c00e4e985172cce2a27ed</sha384>
-		<sha512>84c4f3986281823793d82291c34b620508b561abe65b1cfaa1c29e27e240f4ce471cea9c56cf7b9154389771971b2f748e07b6d2386db5307063542e98ab8455</sha512>
+		<sha256>12665cba83ed756637370093e85144f687b3e9fc6e75e166e27eaf9a453ef637</sha256>
+		<sha384>6b63d05be93a84e8ffeade46146d8f37facc607be5351359aa04af76e1a448c5f1cf37f0bc46e8e866907e61c87825a6</sha384>
+		<sha512>42337cc52dfcc82bd7c4f424f097267afa69689c81668a5df9de62b0a586b79262fa405cebf2f0142407f5dde8c318f9701a59bc138e1ba2f855ed06e9fc9ae6</sha512>
 		<maintainer>Joomla!LABS</maintainer>
 		<maintainerurl>https://joomlalabs.org</maintainerurl>
 		<section>STS</section>
