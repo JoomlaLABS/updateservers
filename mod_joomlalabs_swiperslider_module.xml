@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
+    <!-- Joomla 4.x, 5.x and 6.x -->
+    <update>
+        <name>Swiper Slider Module</name>
+        <description>Joomla!LABS Swiper Slider Module Version 2.1.0</description>
+        <element>mod_joomlalabs_swiperslider_module</element>
+        <type>module</type>
+        <version>2.1.0</version>
+        <client>site</client>
+        <infourl title="Joomla!LABS Swiper Slider Module">https://github.com/JoomlaLABS/swiperslider_module/releases/tag/v2.1.0</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v2.1.0/mod_joomlalabs_swiperslider_module_v2.1.0_j4_j5_j6.zip</downloadurl>
+            <downloadsource type="full" format="zip">https://github.com/JoomlaLABS/swiperslider_module/releases/download/v2.1.0/mod_joomlalabs_swiperslider_module_v2.1.0_j4_j5_j6.zip</downloadsource>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <sha256>02124b94989e64504d974df347a0223d513cd95aa59afe2a4950b18f32ddd37b</sha256>
+        <sha384>497050031b9468817191cd076815680dd7008b7dfd0f4fa91af5d9edc4260f086451ba5a14e1d138b704748a299d0737</sha384>
+        <sha512>7ab82f4cc5ab15c46e8342d08097e0c9d69ab84adba263b9f963ffe07641a57f6b35e079c64d4e5e4d7f220077b3985b2dc0de8d454b49dbe072e9b4371e6d1a</sha512>
+        <maintainer>Joomla!LABS</maintainer>
+        <maintainerurl>https://joomlalabs.com</maintainerurl>
+        <section>STS</section>
+        <targetplatform name="joomla" version="[456]\.[0-9]+" />
+        <php_minimum>8.1</php_minimum>
+    </update>
+
     <!-- Joomla 6.x -->
     <update>
         <name>Swiper Slider Module</name>
@@ -21,7 +47,7 @@
         <sha512>978486262f70172bd9b18dd2726e21601f3cd9853521539000336d523f21a82f3c8e088b0bb72717802ba8699dff1af08bbf5781f3d9a98b64d899527a863f89</sha512>
         <maintainer>Joomla!LABS</maintainer>
         <maintainerurl>https://joomlalabs.com</maintainerurl>
-        <section>Updates</section>
+        <section>STS</section>
         <targetplatform name="joomla" version="6\.[0-9]+" />
         <php_minimum>8.1</php_minimum>
     </update>
@@ -47,7 +73,7 @@
 		<sha512>42337cc52dfcc82bd7c4f424f097267afa69689c81668a5df9de62b0a586b79262fa405cebf2f0142407f5dde8c318f9701a59bc138e1ba2f855ed06e9fc9ae6</sha512>
 		<maintainer>Joomla!LABS</maintainer>
 		<maintainerurl>https://joomlalabs.com</maintainerurl>
-		<section>Updates</section>
+		<section>STS</section>
 		<targetplatform name="joomla" version="[45]\.[0-9]+" />
 		<php_minimum>7.2</php_minimum>
 	</update>
