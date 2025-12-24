@@ -19,9 +19,9 @@
 		<sha384>d2c7d8331275db98db32e1bfb00c1a2fdefad7d85a4514f3f3d9bbc7053600bde8b6a69b20f8d24eba1de20805480f09</sha384>
 		<sha512>142e3740b15af8359ebebd7a1e73873c0b14b4948fb7944b97926f7af4260f55d80b79293f2023968ffef4121c8e89a884f3a20a354df2e646177b7ce95ef8d3</sha512>
 		<maintainer>Joomla!LABS</maintainer>
-		<maintainerurl>https://joomlalabs.org</maintainerurl>
+		<maintainerurl>https://joomlalabs.com</maintainerurl>
 		<section>STS</section>
-		<targetplatform name="joomla" version="4.0" />
+		<targetplatform name="joomla" version="4\.[0-9]+" />
 		<php_minimum>7.2</php_minimum>
 	</update>
 </updates>
