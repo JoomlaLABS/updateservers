@@ -1,5 +1,31 @@
 <?xml version="1.0" ?>
 <updates>
+	<!-- Joomla 4.x, 5.x and 6.x -->
+	<update>
+		<name>Image Comparison Slider Module</name>
+		<description>Joomla!LABS Image Comparison Slider Module Version 2.0.1</description>
+		<element>mod_joomlalabs_imagecomparisonslider_module</element>
+		<type>module</type>
+		<version>2.0.1</version>
+		<client>site</client>
+		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v2.0.1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v2.0.1/mod_joomlalabs_imagecomparisonslider_module_v2.0.1_j4_j5_j6.zip</downloadurl>
+			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v2.0.1/mod_joomlalabs_imagecomparisonslider_module_v2.0.1_j4_j5_j6.zip</downloadsource>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<sha256>d9bdcf61f5d4f16f185d201d203c1c143f6795ef10d3ac5f3e4da4368dc14479</sha256>
+		<sha384>2c5e20cb787a465c2991783b9e82a54ae3eee7a840ee990efb5714a60918f5877c12293df07c2e641942e4cbd1c9fe88</sha384>
+		<sha512>9d5a3025c7315c20cbd22bc7e081d44ac6e9f63645ddada27128853d84019dfaf08234eb33445c7dcba53446101a5b34b4b89e5c674d7a2b6ec2cc782ab2fe6b</sha512>
+		<maintainer>Joomla!LABS</maintainer>
+		<maintainerurl>https://joomlalabs.com</maintainerurl>
+		<section>STS</section>
+		<targetplatform name="joomla" version="[456]\.[0-9]+" />
+		<php_minimum>8.1</php_minimum>
+	</update>
+
 	<!-- Joomla 5.x and 6.x -->
 	<update>
 		<name>Image Comparison Slider Module</name>
@@ -8,7 +34,7 @@
 		<type>module</type>
 		<version>2.0.0</version>
 		<client>site</client>
-		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v1.2.0</infourl>
+		<infourl title="Joomla!LABS Image Comparison Slider Module">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/tag/v2.0.0</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v2.0.0/mod_joomlalabs_imagecomparisonslider_module_v2.0.0_j6.zip</downloadurl>
 			<downloadsource type="full" format="zip">https://github.com/JoomlaLABS/imagecomparisonslider_module/releases/download/v2.0.0/mod_joomlalabs_imagecomparisonslider_module_v2.0.0_j6.zip</downloadsource>
@@ -17,10 +43,12 @@
 			<tag>stable</tag>
 		</tags>
 		<sha256>430550e3caa0d68a1e180dbaee5b60528b5cfe676f9415ed708b1c6995ec5009</sha256>
+		<sha384>PLACEHOLDER_SHA384_TO_BE_CALCULATED</sha384>
+		<sha512>PLACEHOLDER_SHA512_TO_BE_CALCULATED</sha512>
 		<maintainer>Joomla!LABS</maintainer>
-		<maintainerurl>https://joomlalabs.org</maintainerurl>
+		<maintainerurl>https://joomlalabs.com</maintainerurl>
 		<section>STS</section>
-		<targetplatform name="joomla" version="56\.[0-9]+" />
+		<targetplatform name="joomla" version="[56]\.[0-9]+" />
 		<php_minimum>8.1</php_minimum>
 	</update>
 
@@ -44,7 +72,7 @@
 		<sha384>e0fde7ccc8a07c6ff8d7d8223693dd46955dc24420e29dada7285fec3938a085edc83bc34baa5ba83adbde9af99f96f2</sha384>
 		<sha512>e3b1f8bb8afe09ae1e84f4e95e1c71d7cd6fa511db502e8e87e13f92d052b82b45195207fd6922f92406c4cede326f878fe30b65b4ae4ce1ff31eb9b31007ca4</sha512>
 		<maintainer>Joomla!LABS</maintainer>
-		<maintainerurl>https://joomlalabs.org</maintainerurl>
+		<maintainerurl>https://joomlalabs.com</maintainerurl>
 		<section>STS</section>
 		<targetplatform name="joomla" version="4\.[0-9]+" />
 		<php_minimum>7.2</php_minimum>
