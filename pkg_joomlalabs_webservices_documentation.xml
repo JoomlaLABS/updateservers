@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Joomla!LABS Web Services Documentation</name>
+        <description>Complete package for Joomla Web Services API documentation, including Swagger UI and Redoc viewers with dynamic OpenAPI specification generation.</description>
+        <element>pkg_joomlalabs_webservices</element>
+        <type>package</type>
+        <version>1.0.0</version>
+        <infourl title="Joomla!LABS Web Services Documentation">https://github.com/JoomlaLABS/webservices-documentation</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/JoomlaLABS/webservices-documentation/releases/download/v1.0.0/pkg_joomlalabs_webservices_v1.0.0_j6.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Joomla!LABS</maintainer>
+        <maintainerurl>https://joomlalabs.com</maintainerurl>
+        <targetplatform name="joomla" version="6.0"/>
+        <client>0</client>
+    </update>
+</updates>
