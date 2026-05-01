@@ -2,7 +2,7 @@
 <updates>
     <update>
         <name>Joomla!LABS Web Services Documentation</name>
-        <description>Complete package for Joomla Web Services API documentation, including Swagger UI and Redoc viewers with dynamic OpenAPI specification generation.</description>
+        <description>Complete package for Joomla!LABS Web Services API documentation, including Swagger UI and Redoc viewers with dynamic OpenAPI specification generation.</description>
         <element>pkg_joomlalabs_webservices</element>
         <type>package</type>
         <version>1.0.0</version>
