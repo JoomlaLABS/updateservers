@@ -15,7 +15,7 @@
         </tags>
         <maintainer>Joomla!LABS</maintainer>
         <maintainerurl>https://joomlalabs.com</maintainerurl>
-        <targetplatform name="joomla" version="6.0"/>
+        <targetplatform name="joomla" version="6\.[0-9]+"/>
         <client>0</client>
     </update>
 </updates>
