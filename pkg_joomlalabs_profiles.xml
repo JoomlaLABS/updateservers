@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>Joomla!LABS Profiles</name>
+        <description>Complete package for Joomla!LABS Profiles Version 1.0.0</description>
+        <element>pkg_joomlalabs_profiles</element>
+        <type>package</type>
+        <version>1.0.0</version>
+        <infourl title="Joomla!LABS Profiles">https://github.com/JoomlaLABS/profiles</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/JoomlaLABS/profiles/releases/download/v1.0.0/pkg_joomlalabs_profiles_v1.0.0_j6.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <sha256>021b4aa870ab6a223e1997fe7153b627dfbbc93ceddbedcca68c16df67003268</sha256>
+        <maintainer>Joomla!LABS</maintainer>
+        <maintainerurl>https://joomlalabs.com</maintainerurl>
+        <targetplatform name="joomla" version="6\.[0-9]+"/>
+        <client>0</client>
+    </update>
+</updates>
