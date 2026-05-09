@@ -14,7 +14,7 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <sha256>c8198c716e95d5d24c3b2db845e146109f72a4b00e335727d52193299bece876</sha256>
+        <sha256>415b5ccda85b72275f8786e9216ee240f9801b3ae80a9547bff4c54e8cdece71</sha256>
         <maintainer>Joomla!LABS</maintainer>
         <maintainerurl>https://joomlalabs.com</maintainerurl>
         <targetplatform name="joomla" version="6\.[0-9]+"/>
