@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelogs>
+	<changelog>
+		<element>pkg_joomlalabs_profiles</element>
+		<type>package</type>
+		<version>1.0.1</version>
+		<addition>
+			<item>Added single-profile menu layouts with cards and tabs presentation modes.</item>
+			<item>Added directory teaser fields configuration to expose selected custom fields in directory cards.</item>
+			<item>Added hierarchical category labels in the public directory filter for clearer navigation across nested categories.</item>
+		</addition>
+		<change>
+			<item>Directory category filtering now uses Joomla fancy-select rendering for a more consistent selection experience.</item>
+			<item>Router layout support now includes the cards and tabs profile variants.</item>
+			<item>Frontend profile and directory styling was refined for card, tab, and teaser-field presentation.</item>
+		</change>
+		<fix>
+			<item>Aligned directory category filter styling more closely with Joomla Choices and template CSS behavior.</item>
+			<item>Preserved visible hierarchy in nested directory category options instead of presenting them as a flat list.</item>
+		</fix>
+		<note>
+			<item>This release focuses on profile presentation refinements and directory filtering usability improvements.</item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>pkg_joomlalabs_profiles</element>
+		<type>package</type>
+		<version>1.0.0</version>
+		<addition>
+			<item>Initial structured release of the Joomla!LABS Profiles package for Joomla 6.</item>
+			<item>Added standalone profile management for person and legal entity records.</item>
+			<item>Added administrator profile management with list, filters, edit form, and modal selectors.</item>
+			<item>Added public directory and profile detail views with SEF routing and nested category path support.</item>
+			<item>Added native Joomla custom fields, privacy, action log, and versioning integration.</item>
+		</addition>
+		<change>
+			<item>Configured package-based distribution with component and plugin constituents built through the Ant pipeline.</item>
+			<item>Aligned custom field frontend display mapping with the profile UI rendering strategy.</item>
+		</change>
+		<note>
+			<item>Requires Joomla 6.0.0 or higher, PHP 8.1 or higher, and MySQL 8 or MariaDB 10.5+.</item>
+		</note>
+	</changelog>
+</changelogs>
